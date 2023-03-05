@@ -7,4 +7,6 @@ object Constants {
 
     const val PREFS_TOKEN_FILE = "PREFS_TOKEN_FILE"
     const val PREFS_TOKEN_KEY = "PREFS_TOKEN_KEY"
+
+    const val BUNDLE_KEY_NOTE_ITEM = "BUNDLE_KEY_NOTE_ITEM"
 }

@@ -20,4 +20,8 @@ class TokenManager @Inject constructor (@ApplicationContext context: Context) {
         // 'null' is default value here
         return prefs.getString(PREFS_TOKEN_KEY, null)
     }
+
+    fun clearToken() {
+        prefs.edit().clear().apply()
+    }
 }

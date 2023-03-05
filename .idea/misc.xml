@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/drawable/bg_note.xml" value="0.135" />
         <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/layout/fragment_login.xml" value="0.1" />
-        <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/layout/fragment_note.xml" value="0.1" />
+        <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/layout/fragment_note.xml" value="0.4" />
         <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/layout/fragment_register.xml" value="0.1" />
+        <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/layout/layout_note_item.xml" value="0.2609375" />
+        <entry key="..\:/Users/abizer's ideapad/AndroidStudioProjects/CloudNote/app/src/main/res/layout/note_layout.xml" value="0.2558974358974359" />
       </map>
     </option>
   </component>

@@ -17,6 +17,7 @@
     <style name="NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
         <!-- Custom Fonts. -->
         <item name="android:fontFamily">@font/proxima_nova_regular</item>
     </style>
